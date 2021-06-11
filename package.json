@@ -1,6 +1,6 @@
 {
   "name": "@edge/bridge-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bridge utility library for the XE blockchain",
   "main": "lib/index.js",
   "author": "Edge Network <core@edge.network>",
