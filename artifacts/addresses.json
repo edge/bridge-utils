@@ -1,4 +1,10 @@
 {
-  "bridge": "0x4Ea0910F4456fBD55FB6bb02bd20738BED4FF750",
-  "token": "0x3B8b4C4e17a3639247B44619aeBF005935f9e9d7"
+  "mainnet": {
+    "bridge": "",
+    "token": ""
+  },
+  "testnet": {
+    "bridge": "0x4Ea0910F4456fBD55FB6bb02bd20738BED4FF750",
+    "token": "0x3B8b4C4e17a3639247B44619aeBF005935f9e9d7"
+  }
 }
