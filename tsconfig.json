@@ -17,6 +17,8 @@
     "strict": true
   },
   "include": [
+    "package.json",
+    "artifacts/**/*.json",
     "lib/**/*",
   ],
   "exclude": [
