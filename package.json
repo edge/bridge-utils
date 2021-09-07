@@ -4,7 +4,8 @@
   "description": "Bridge utility library for the XE blockchain",
   "author": "Edge Network <core@edge.network>",
   "contributors": [
-    "Adam K Dean <adam@edge.network>"
+    "Adam K Dean <adam@edge.network>",
+    "Aneurin \"Anny\" Barker Snook <aneurin@edge.network>"
   ],
   "license": "MIT",
   "main": "dist/lib/index.js",
