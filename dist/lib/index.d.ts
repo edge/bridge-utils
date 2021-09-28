@@ -20,9 +20,11 @@ export declare type Module = {
     addresses: Addresses;
     bridge: ABI;
     token: ABI;
+    usdc: ABI;
 };
 export declare const addresses: Addresses;
 export declare const bridge: ABI;
 export declare const token: ABI;
+export declare const usdc: ABI;
 declare const mod: Module;
 export default mod;

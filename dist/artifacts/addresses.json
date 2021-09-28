@@ -1,10 +1,12 @@
 {
     "mainnet": {
         "bridge": "0x857a9b116074466F56f1360c09b6BF9E898964Fe",
-        "token": "0x4ec1b60b96193a64acae44778e51f7bff2007831"
+        "token": "0x4ec1b60b96193a64acae44778e51f7bff2007831",
+        "usdc": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
     },
     "testnet": {
         "bridge": "0x4DD4319b094D579ac09C8BFdf9E84A3ed6089fdb",
-        "token": "0x194AD33C717bf5159D2063FF1f7b42A304cC124D"
+        "token": "0x194AD33C717bf5159D2063FF1f7b42A304cC124D",
+        "usdc": "0xAf553C22A6BC3BDF349777fA30Adbf86C68BFFDb"
     }
 }
