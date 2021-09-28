@@ -15,6 +15,7 @@ import addressesJSON from '../artifacts/addresses.json'
 import bridgeJSON from '../artifacts/bridge.json'
 import pkg from '../package.json'
 import tokenJSON from '../artifacts/token.json'
+import usdcJSON from '../artifacts/usdc.json'
 
 export type ABI = {
   _format: string
@@ -39,17 +40,20 @@ export type Module = {
   addresses: Addresses
   bridge: ABI
   token: ABI
+  usdc: ABI
 }
 
 export const addresses = addressesJSON as Addresses
 export const bridge = bridgeJSON as ABI
 export const token = tokenJSON as ABI
+export const usdc = usdcJSON as ABI
 
 const mod: Module = {
   version: pkg.version,
   addresses,
   bridge,
-  token
+  token,
+  usdc
 }
 
 export default mod
