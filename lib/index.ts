@@ -32,6 +32,7 @@ export type Addresses = {
   [net: string]: {
     bridge: string
     token: string
+    usdc: string
   }
 }
 

@@ -13,6 +13,7 @@ export declare type Addresses = {
     [net: string]: {
         bridge: string;
         token: string;
+        usdc: string;
     };
 };
 export declare type Module = {
