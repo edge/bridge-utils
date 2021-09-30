@@ -1,6 +1,6 @@
 {
     "name": "@edge/bridge-utils",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Bridge utility library for the XE blockchain",
     "author": "Edge Network <core@edge.network>",
     "contributors": [
@@ -11,8 +11,8 @@
     "main": "dist/lib/index.js",
     "scripts": {
         "build": "tsc",
-        "lint": "eslint --ext .ts src || true",
-        "lint:fix": "eslint --fix --ext .ts src"
+        "lint": "eslint --ext .ts lib || true",
+        "lint:fix": "eslint --fix --ext .ts lib"
     },
     "devDependencies": {
         "@edge/eslint-config-typescript": "^0.1.0",
