@@ -7,7 +7,7 @@
     "Adam K Dean <adam@edge.network>",
     "Aneurin \"Anny\" Barker Snook <aneurin@edge.network>"
   ],
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.md",
   "main": "dist/lib/index.js",
   "scripts": {
     "build": "tsc",
