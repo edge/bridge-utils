@@ -6,7 +6,7 @@
     },
     "testnet": {
         "bridge": "0x4DD4319b094D579ac09C8BFdf9E84A3ed6089fdb",
-        "token": "0x194AD33C717bf5159D2063FF1f7b42A304cC124D",
-        "usdc": "0x636CbE99d88276dfdCC58826FD3B1C6Bebb6a336"
+        "token": "0xF4b8349AfE90e2e6221D7f22D95Bd7c2fb8B5203",
+        "usdc": "0xc85664023206B8f88Ec18c2fDCd14F505AE50194"
     }
 }
