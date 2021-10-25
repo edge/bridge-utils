@@ -5,8 +5,8 @@
     "usdc": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
   },
   "testnet": {
-    "bridge": "0x4DD4319b094D579ac09C8BFdf9E84A3ed6089fdb",
-    "token": "0xF4b8349AfE90e2e6221D7f22D95Bd7c2fb8B5203",
-    "usdc": "0xc85664023206B8f88Ec18c2fDCd14F505AE50194"
+    "bridge": "0x3cfa3Ac4b2C8105cB5cd5dB0009Ce1BB2AC026aD",
+    "token": "0xbf57cd6638fdfd7c4fa4c10390052f7ab3a1c301",
+    "usdc": "0xa279968cc3ac93640bee947322f1e5f94fda6fc5"
   }
 }
