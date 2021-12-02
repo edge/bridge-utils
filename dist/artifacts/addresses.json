@@ -5,7 +5,7 @@
         "usdc": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
     },
     "testnet": {
-        "bridge": "0x3cfa3Ac4b2C8105cB5cd5dB0009Ce1BB2AC026aD",
+        "bridge": "0xC456173cEcB6E5EF1e86c38af322E024f2193B26",
         "token": "0xbf57cd6638fdfd7c4fa4c10390052f7ab3a1c301",
         "usdc": "0xa279968cc3ac93640bee947322f1e5f94fda6fc5"
     }
